@@ -8,11 +8,13 @@ compare instant, hysteresis, and refractory-lockout switching rules against
 oracle and static baselines.
 
 ## Contents
-- `analysis.ipynb` — full simulation and analysis (reproduces all figures)
-- `manuscript.pdf` — write-up of the methods, results, and discussion
-- `supporting_information.pdf` — supplementary derivations and figures
-- `presentation.pptx` — slides summarizing the project
+
+- `Research Project.ipynb` — full simulation and analysis (reproduces all figures)
+- `Main_Manuscript (2).pdf` — write-up of the methods, results, and discussion
+- `Supporting Information-2.pdf` — supplementary derivations and figures
+- `Research Presentation.pptx` — slides summarizing the project
 
 ## Running
+
 The notebook requires `numpy`, `scipy`, `pandas`, and `matplotlib`.
 Run all cells top to bottom to reproduce the figures.
